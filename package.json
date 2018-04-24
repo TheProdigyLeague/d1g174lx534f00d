@@ -1,0 +1,20 @@
+{
+  "name": "digital_seafood",
+  "version": "1.0.0",
+  "description": "this will be the website for digital seafood ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/britt-ryant/digital_seafood.git"
+  },
+  "author": "Ryan Britt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/britt-ryant/digital_seafood/issues"
+  },
+  "homepage": "https://github.com/britt-ryant/digital_seafood#readme"
+}
